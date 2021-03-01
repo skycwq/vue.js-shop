@@ -25,7 +25,7 @@ export default {
 .recomment{
     display: flex;
     padding-bottom: 35px;
-    border-bottom: 8px solid rgb(204, 204, 204);
+    border-bottom: 8px solid rgb(238, 234, 234);
 }
 .recomment .recomment-item{
     flex: 1;

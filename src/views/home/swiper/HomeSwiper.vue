@@ -22,12 +22,12 @@ export default {
   data() {
     return {
       swiperOptions: {
-       loop: true,
+      
         pagination: {
           el: ".swiper-pagination",
           clickable: true,
         },
-       
+         loop: true,
         autoplay: {
           delay: 3000,
           // stopOnLastSlide:false,
@@ -38,7 +38,7 @@ export default {
         //   nextEl: ".swiper-button-next",
         //   prevEl: ".swiper-button-prev",
         // },
-    
+        
       },
     };
   },
